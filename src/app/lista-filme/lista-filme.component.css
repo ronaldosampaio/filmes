@@ -1,0 +1,36 @@
+
+app-root{
+    background-color: aliceblue;
+}
+.linha{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 1px; 
+    border-top: 3px solid rgba(0,0,0,.1);
+}
+.tamanho{
+    left: 7px;
+    position: relative;
+}
+
+ul{
+    border: 1px solid #e3e3e3;
+    list-style: none;
+    padding: 0px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+
+.img{
+    margin: 0px;
+    padding: 0px;
+    
+}
+img{
+    margin-left: -23px;
+}
+
+.informacao{
+    padding-left: 63px;
+    
+}
